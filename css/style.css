@@ -86,3 +86,13 @@ body {
     text-align:justify;
     align-items: center;
    }
+
+   @media screen (max-width: 600px){
+       
+   }
+
+   .main {
+       grid-template-columns: 2fr;
+   }
+
+   
